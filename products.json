@@ -1,0 +1,49 @@
+[
+  {
+    "name": "A Human Finger",
+    "price" : 19.95,
+    "details": [
+      "Inexpensive",
+      "Fun to play"
+    ],
+        "image": "Image1.jpg"
+  },
+  {
+    "name": "Uranium ore",
+    "price" : 39.99,
+    "details": [
+      "easy to use",
+      "work effectively"
+    ],
+        "image": "Image2.jpg"
+  },
+  {
+    "name": "A dog dryer",
+    "price" : 24.28,
+    "details": [
+      "dry your dog",
+      "animal friendly"
+    ],
+        "image": "Image3.jpg"
+  },
+  {
+    "name": "A pizza hat",
+    "price" : 14.28,
+    "details": [
+      "look beautiful",
+      "Do not damage hairs"
+    ],
+        "image": "Image4.jpg"
+  },
+  {
+    "name": "A Cthulhu hat",
+    "price" : 9.99,
+    "details": [
+      "Cheap best gift",
+      "Do not damage hairs"
+    ],
+        "image": "Image5.jpg"
+  }
+] 
+  
+  
