@@ -14,7 +14,10 @@ body{
         font-size:20px;
         padding:10px;
     }
-       
+       .card-img-top{
+    width:400;
+    height:200px;
+}
     .product{
         text-align:center;
         color:yellow
