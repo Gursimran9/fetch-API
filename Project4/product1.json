@@ -1,0 +1,15 @@
+{
+    "weiredProducts": 
+    [
+      {
+        "name": "A Human Finger",
+        "price" : 19.95,
+        "details": [
+            "gray color",
+            "reliable", 
+            "inexpensive" 
+          ],
+        "image": "Image1.jpg"
+      }
+    ]
+}

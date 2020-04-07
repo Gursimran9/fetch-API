@@ -1,0 +1,14 @@
+{
+    "weiredProducts": 
+    [
+      {
+        "name": "Uranium ore",
+        "price" : 39.99,
+        "details": [
+          "easy to use",
+          "work effectively"
+        ],
+        "image": "Image2.jpg"
+      }
+    ]
+}

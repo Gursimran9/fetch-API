@@ -1,0 +1,26 @@
+body{
+    background-color:antiquewhite;
+    }
+
+    h1{
+        font-size:25px;
+        text-align:center;
+    }
+    #getProducts{
+        background-color:blue;
+        color:white;
+        border:none;
+        outline:none;
+        font-size:20px;
+        padding:10px;
+    }
+       
+    .product{
+        text-align:center;
+        color:yellow
+    }
+    .products{
+        background-color:yellow;
+        color:black;
+    }
+    

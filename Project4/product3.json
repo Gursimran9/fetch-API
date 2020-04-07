@@ -1,0 +1,14 @@
+{
+    "weiredProducts": 
+    [
+      {
+        "name": "A dog dryer",
+        "price" : 24.28,
+        "details": [
+          "dry your dog",
+          "animal friendly"
+        ],
+        "image": "Image3.jpg"
+      }
+    ]
+}

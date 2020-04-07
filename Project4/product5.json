@@ -1,0 +1,13 @@
+{
+    "weiredProducts": [
+      {
+        "name": "A Cthulhu hat",
+        "price" : 9.99,
+        "details": [
+          "Cheap best gift",
+          "Do not damage hairs"
+        ],
+        "image": "Image5.jpg"
+      }
+    ]
+}
